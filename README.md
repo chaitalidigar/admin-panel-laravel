@@ -115,9 +115,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ## 👤 Author
-
-**Your Name**  
+ 
 🔗 [GitHub Profile](https://github.com/chaitalidigar)  
+Built with ❤️ by [Chaitali Digar](https://github.com/chaitalidigar)
+
+⚠️ This admin panel is fully built from scratch by me for learning and development purposes. 
 
 
 ---
