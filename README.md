@@ -124,4 +124,14 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 📸 (Optional) Screenshots
 
-You can add screenshots of your dashboard and key pages here.
+You can add screenshots <img width="1457" alt="Screenshot 2025-05-25 at 11 41 30 PM" src="https://github.com/user-attachments/assets/ff5fd07e-15d6-4696-86f4-309a2c636931" />
+of your dashboard and key pages here.
+<img width="1446" alt="Screenshot 2025-05-25 at 11 40 52 PM" src<img width="1451" alt="Screenshot 2025-05-25 at 11 42 07 PM" src="https://github.com/user-<img widt<img width="1431" alt="Screenshot 2025-05-26 at 12 05 48 AM" src="https://github.com/user-attachments/assets/4dff2bef-7a95-454d-bc80-5d90de85ee8e" />
+h="1448" alt="Screenshot 2025-05-26 at 12 05 34 AM" src="https://github.com/user-attachments/assets/7339f330-fa0a-43f9-95b5-40fb56f99e15" />
+attachments/assets<img width="1441" alt="Screenshot 2025-05-25 at 11 42 24 PM" src="https://github.com/user-attachments/assets<img width="1436" alt="Screenshot 2025-05-25 at 11 42 39 PM" src="https://github.com/user-attachments/assets/5e7384b5-8ff1-4ae0-be9d-fc7a09dbb764" />
+/fbfea43f-6840-4c4f-8339-ba67e9d1c3fd" />
+/6f1e5016-dcc1-4a05-b52e-2e8942d9a53a" />
+="https://github.com/user-<img width="1450" alt="Screenshot 2025-05-25 at 11 42 14 PM" src="https://github.com/user-attachments/assets/33593a74-79d4-4142-aada-14203cba2e9f" />
+attachments/assets/06cc1f93-8731-4153-a979-97c995987295" />
+
+
